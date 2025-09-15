@@ -1,5 +1,4 @@
-## Hi Lantz
-
+## ✋Hi!
 <!--
 **Lantz-run/Lantz-run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
