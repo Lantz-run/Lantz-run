@@ -11,7 +11,7 @@
 - &nbsp;&nbsp;✍️大家好，我是lantz! 主后端开发，入门选手。
 - &nbsp;🌟热爱算法，开发有趣的玩意儿，喜欢记录自己的成长与思考。
 - &nbsp; 💾想要一个人去旅行，记录世界探索世界
-- 🌏走进自然才能探索世界的真相。
+- &nbsp;🌏走进自然才能探索世界的真相。
 
 <div align="left">
   <a href="https://gitee.com/lantz-huang/"><img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-red"></a>&emsp;
